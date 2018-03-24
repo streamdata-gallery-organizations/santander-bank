@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: santander-bank.api.streamdata.gallery
+title: Streamdata Gallery Santander Bank
+url: santander-bank.streamdata.gallery
 tag: Santander Bank
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: santander-bank
 github_branch: master
 collections:
