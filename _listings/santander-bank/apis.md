@@ -12,8 +12,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-
 x-kinRank: "8"
 x-alexaRank: "11016"
 tags: Santander Bank
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/santander-bank/master/_listings/santander-bank/apis.md
 specificationVersion: "0.14"
 apis:
